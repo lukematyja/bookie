@@ -1,0 +1,6 @@
+selenium==2.53.0
+chromedriver-install==1.0.3
+boto3==1.9.215
+beautifulsoup4==4.6.3
+lxml==4.2.5
+pyyaml>=4.2b1
